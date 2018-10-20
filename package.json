@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "0.0.1",
+  "description": "What are even doing here?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronStaggs/2018-fall-javascript-3.git"
+  },
+  "author": "Aaron Staggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronStaggs/2018-fall-javascript-3/issues"
+  },
+  "homepage": "https://github.com/AaronStaggs/2018-fall-javascript-3#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
